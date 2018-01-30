@@ -1,7 +1,7 @@
 # Regolamento Torneo
 
 *LEGGENDA  
-RA: Ruolo attaccante  
+RA: Ruolo attaccante
 RD Ruolo difensore*  
 
 # 1. Le squadre
