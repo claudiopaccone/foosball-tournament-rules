@@ -2,7 +2,7 @@
 
 *LEGGENDA  
 RA: Ruolo attaccante
-RD Ruolo difensore*  
+RD: Ruolo difensore*  
 
 # 1. Le squadre
 **1.a -** La composizione delle squadre avviene tramite sorteggio.  
