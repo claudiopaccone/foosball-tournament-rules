@@ -1,8 +1,8 @@
 # Regolamento Torneo
 
 *LEGGENDA
-RA: Ruolo attaccante
-RD Ruolo difensore*
+RA: Ruolo attaccante . 
+RD Ruolo difensore* . 
 
 # 1. Le squadre
 **1.a -** La composizione delle squadre avviene tramite sorteggio
