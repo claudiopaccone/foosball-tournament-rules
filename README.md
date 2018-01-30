@@ -16,5 +16,6 @@ RD: Ruolo difensore*
 **2.e -**  Nel caso in cui la pallina dovesse uscire dai bordi o si dovesse fermare in zone del campo contese dai giocatori e impossibilitate alla ripresa di essa, l'ultimo team che ha effettuato la messa in gioco della pallina avrà la rimessa.
 
 # 3. La partita
-**3.a -** Vince la partita chi arriva per primo a 10.  
-**3.b -** Vale la regola dei vantaggi in caso di pareggio (9-9).
+**3.a -** Vince il game chi arriva per primo a 10.  
+**3.b -** Vale la regola dei vantaggi in caso di pareggio (9-9).  
+**3.c -** La partita è al meglio delle 5 (chi arriva primo a 3!)
