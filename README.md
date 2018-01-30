@@ -1,6 +1,6 @@
 # Regolamento Torneo
 
-*LEGGENDA  
+*LEGENDA  
 RA: Ruolo attaccante
 RD: Ruolo difensore*  
 
