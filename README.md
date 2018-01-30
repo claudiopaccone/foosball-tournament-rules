@@ -15,5 +15,5 @@ RD Ruolo difensore*
 **2.d -** Se la pallina entra in porta e ne esce fortuitamente, il goal sarà considerato valido.
 
 # 3. La partita
-**3.a -** Vince la partita chi arriva per primo a 10.
+**3.a -** Vince la partita chi arriva per primo a 10.  
 **3.b -** Vale la regola dei vantaggi in caso di pareggio (9-9).
