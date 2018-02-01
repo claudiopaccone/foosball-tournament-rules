@@ -26,7 +26,7 @@ RD: Ruolo difensore*
 
 | Team 1        | Team 2           | Risultato  |
 | ------------- |:-------------:| -----:|
-| Matteo - Maxim| Mario - Matt |  |
-| Luca - Dario      | Giacomo-Alberto|  |
+| Matteo - Maxim | Mario - Matt |  |
+| Luca - Dario | Giacomo-Alberto |  |
 | Giuseppe - Claudio | Christian-Edriano |  |
 | Elviro - Daniele | Alessandro - Filippo |  |
