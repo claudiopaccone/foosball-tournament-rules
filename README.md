@@ -19,3 +19,14 @@ RD: Ruolo difensore*
 **3.a -** Vince il game chi arriva per primo a 10.  
 **3.b -** Vale la regola dei vantaggi in caso di pareggio (9-9).  
 **3.c -** La partita è al meglio delle 5 (chi arriva primo a 3!)
+
+# Tabellone
+
+## Quarti
+
+| Team 1        | Team 2           | Risultato  |
+| ------------- |:-------------:| -----:|
+| Matteo - Maxim| Mario - Matt |  |
+| Luca - Dario      | Giacomo-Alberto|  |
+| Giuseppe - Claudio | Christian-Edriano |  |
+| Elviro - Daniele | Alessandro - Filippo |  |
