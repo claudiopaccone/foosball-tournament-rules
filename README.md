@@ -18,7 +18,7 @@ RD: Ruolo difensore*
 # 3. La partita
 **3.a -** Vince il game chi arriva per primo a 10.  
 **3.b -** Vale la regola dei vantaggi in caso di pareggio (9-9).  
-**3.c -** La partita è al meglio delle 5 (chi arriva primo a 3!)
+**3.c -** La partita è al meglio delle 3 (chi arriva primo a 2!)
 
 # Tabellone
 
