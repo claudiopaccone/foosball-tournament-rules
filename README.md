@@ -25,8 +25,8 @@ RD: Ruolo difensore*
 
 ## Quarti
 
-| Team 1        | Team 2           | Risultato  |
-| ------------- |:-------------:| -----:|
+| Team 1        | Team 2           | Set 1  |Set 2  |Set 3  |
+| ------------- |:-------------:| -----:|-----:|-----:|
 | Matteo - Pierpaolo | Mario - Matt |  |
 | Luca - Dario | Giacomo-Alberto |  |
 | Giuseppe - Claudio | Christian-Edriano | 0-6 | 4-10 |
