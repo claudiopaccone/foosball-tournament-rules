@@ -27,7 +27,7 @@ RD: Ruolo difensore*
 
 | Team 1        | Team 2           | Set 1  |Set 2  |Set 3  |
 | ------------- |:-------------:| -----:|-----:|-----:|
-| Matteo - Pierpaolo | **Mario - Matt** | 3-10 | 4- 10 |
+| Matteo - Pierpaolo | **Mario - Matt** | 3-10 | 4-10 |
 | Luca - Dario | Giacomo-Alberto |  |
 | Giuseppe - Claudio | **Christian - Edriano** | 0-6 | 4-10 |
 | Elviro - Daniele | Alessandro - Filippo |  |
