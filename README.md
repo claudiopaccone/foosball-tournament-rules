@@ -30,4 +30,4 @@ RD: Ruolo difensore*
 | Matteo - Pierpaolo | **Mario - Matt** | 3-10 | 4-10 |
 | Luca - Dario | Giacomo-Alberto |  |
 | Giuseppe - Claudio | **Christian - Edriano** | 0-6 | 4-10 |
-| Elviro - Daniele | Alessandro - Filippo |  |
+| **Elviro - Daniele** | Alessandro - Filippo | 10-6 | 10-2 |
