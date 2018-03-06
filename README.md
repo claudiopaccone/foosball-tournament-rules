@@ -31,3 +31,11 @@ RD: Ruolo difensore*
 | Luca - Dario | **Giacomo-Alberto** | 10-7 | 8-10 | 5-10 |
 | Giuseppe - Claudio | **Christian - Edriano** | 0-6 | 4-10 |
 | **Elviro - Daniele** | Alessandro - Filippo | 10-6 | 10-2 |
+
+
+## Semifinali
+
+| Team 1        | Team 2           | Set 1  |Set 2  |Set 3  |
+| ------------- |:-------------:| -----:|-----:|-----:|
+| Mario - Matt | Giacomo-Alberto |  |  |
+| Elviro - Daniele | **Christian - Edriano**  | 3-10 | 8-10 |
