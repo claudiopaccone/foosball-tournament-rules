@@ -37,5 +37,10 @@ RD: Ruolo difensore*
 
 | Team 1        | Team 2           | Set 1  |Set 2  |Set 3  |
 | ------------- |:-------------:| -----:|-----:|-----:|
-| Mario - Matt | Giacomo-Alberto |  |  |
+| **Mario - Matt** | Giacomo-Alberto | 10-5 | 10-7 |
 | Elviro - Daniele | **Christian - Edriano**  | 3-10 | 8-10 |
+
+## Finale
+| Team 1        | Team 2           | Set 1  |Set 2  |Set 3  |
+| ------------- |:-------------:| -----:|-----:|-----:|
+| **Mario - Matt** | Christian - Edriano | 10-5 | 10-8 |
